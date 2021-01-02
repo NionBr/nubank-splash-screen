@@ -9,6 +9,6 @@ Com o Git instalado na sua maquina e a URL do projeto em mãos, cria em algum lu
 
 ```
 git clone https://github.com/NionBr/nubank-splash-screen.git
-cd color-app
+cd nubank-splash-screen
 flutter pub get
 ```
